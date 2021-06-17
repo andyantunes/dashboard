@@ -27,7 +27,7 @@ Simple Dashboard with different types charts:
 
 ## Project's screenshots
 
-![Task list screen](https://github.com/andyantunes/dashboard/blob/main/src/assets/prints/escreenshot.png)
+![Task list screen](https://github.com/andyantunes/dashboard/blob/main/src/assets/screenshots/screenshot.png)
 
 ## Learnings
 
